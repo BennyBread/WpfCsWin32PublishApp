@@ -1,0 +1,7 @@
+﻿FindWindowEx
+EnumWindows
+GetWindowText
+GetWindowTextLength
+GetShellWindow
+IsWindowVisible
+EnumChildWindows
